@@ -44,7 +44,7 @@ export default class Parent extends Component {
           changePink={this.changePink}
           changeOrange={this.changeOrange} />
           <div>
-          <Child2
+        <Child2
             color={this.state.backgroundColor} />
           </div>
       </div>
