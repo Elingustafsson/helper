@@ -1,2 +1,2 @@
 # helper
-Some cheat sheet
+Some cheat sheet I have done 
